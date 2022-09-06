@@ -6,3 +6,4 @@ Now I am at the point of using UNIX interface to work with my repository locally
 I am so glad that I found this manual:
 https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK&index=10
 
+AND SOME NEW ROWS
