@@ -1,1 +1,3 @@
-Here is another fiel. I am going to check git add command wtih this file.
+Here is another fiel. I am going to check git add command wtih this file. 
+
+And some new changes to mergre two branches.
